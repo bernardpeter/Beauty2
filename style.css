@@ -65,5 +65,5 @@ html, body {
 
 .beauty-container .image-container .image {
     flex-grow: 1;
-    max-width: 4200px;
+    max-width: 300px;
 }
